@@ -1,0 +1,14 @@
+E:\Learn C#\TaskThree\TaskThree\bin\Debug\net8.0\TaskThree.exe
+E:\Learn C#\TaskThree\TaskThree\bin\Debug\net8.0\TaskThree.deps.json
+E:\Learn C#\TaskThree\TaskThree\bin\Debug\net8.0\TaskThree.runtimeconfig.json
+E:\Learn C#\TaskThree\TaskThree\bin\Debug\net8.0\TaskThree.dll
+E:\Learn C#\TaskThree\TaskThree\bin\Debug\net8.0\TaskThree.pdb
+E:\Learn C#\TaskThree\TaskThree\obj\Debug\net8.0\TaskThree.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn C#\TaskThree\TaskThree\obj\Debug\net8.0\TaskThree.AssemblyInfoInputs.cache
+E:\Learn C#\TaskThree\TaskThree\obj\Debug\net8.0\TaskThree.AssemblyInfo.cs
+E:\Learn C#\TaskThree\TaskThree\obj\Debug\net8.0\TaskThree.csproj.CoreCompileInputs.cache
+E:\Learn C#\TaskThree\TaskThree\obj\Debug\net8.0\TaskThree.dll
+E:\Learn C#\TaskThree\TaskThree\obj\Debug\net8.0\refint\TaskThree.dll
+E:\Learn C#\TaskThree\TaskThree\obj\Debug\net8.0\TaskThree.pdb
+E:\Learn C#\TaskThree\TaskThree\obj\Debug\net8.0\TaskThree.genruntimeconfig.cache
+E:\Learn C#\TaskThree\TaskThree\obj\Debug\net8.0\ref\TaskThree.dll
